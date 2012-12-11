@@ -4,10 +4,13 @@ This is a basic code editor for the web. You save on the server side while your 
 Its all just there. We are going to be using these APIs:
 
 alertify.js
+------------
 Bootstrap
+------------
 Codemirror
+------------
 heyoffline.js
-
+-------------
 
 
 
